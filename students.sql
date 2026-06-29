@@ -27,7 +27,7 @@ INSERT INTO students (
 ('Koshak', 'Olga', NULL, 'PR', FALSE, NULL),
 ('Krason', 'Antoni', 3, 'IT', FALSE, NULL),
 ('Krawiecki-Gil', 'Olivier', 4, 'IT', FALSE, NULL),
-('Kubanek', 'Filip', 2, 'IT', TRUE, NULL),
+('Kubanek', 'Filip', 2, 'IT', TRUE, False),
 ('Kuzmicz', 'Cezary', 3, 'IT', FALSE, NULL),
 ('Kuzminski', 'Hubert', 3, 'IT', FALSE, NULL),
 ('Labkovich', 'Artsiom', NULL, 'PR', FALSE, NULL),
